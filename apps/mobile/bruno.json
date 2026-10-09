@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "pricing-mobile",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
